@@ -1,4 +1,4 @@
-[![Join My Discord](https://img.shields.io/discord/1482605286123507782?label=Join%20our%20Discord&logo=discord&color=5865F2)](https://discord.gg/rsRGcMqBxe)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/cyberbeepboop)
 # Discord.py-Modmail-API
 A pretty cool Discord Bot Modmail for FREE! (Requires token)
